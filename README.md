@@ -21,6 +21,8 @@ The source code of the methodology is available [here](https://github.com/angelo
 
 Demo questions can be accessed at: [demo_queries.pdf](demo_queries.pdf).
 
+Zenodo record available [here](https://zenodo.org/records/20729524).
+
 
 ## Who are we?
 
